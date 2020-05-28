@@ -3,4 +3,4 @@ Underclassmen wills were made for the seniors, the class of 2020. This repo host
 
 More than 100 IMSA underclassmen wrote wills to their favorite seniors.
 
-Visit [https://underclassmenwills.me](Underclassmen Wills)
+Visit [Underclassmen Wills](https://underclassmenwills.me/)
